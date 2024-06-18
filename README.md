@@ -2,7 +2,7 @@
 
 🤖 **Versione Beta 1.0**
 
-Il PhasmoPhobia-Queue Bot è un bot Discord progettato per gestire stanze vocali temporanee basate su categorie predefinite come "duo", "trio" e "squad" per il gioco Phasmophobia.
+Il PhasmoPhobia Queue è una funzionalità implementata nel bot usando la Discord progettato per gestire stanze vocali temporanee basate su categorie predefinite come "duo", "trio" e "squad".
 
 ### Funzionalità Attuali:
 
